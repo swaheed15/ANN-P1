@@ -1,8 +1,8 @@
 tensorflow
 keras
-numpy==1.18.5
-pandas==1.0.5
-matplotlib==3.2.2
-scikit-learn==0.23.1
-seaborn==0.10.1
-jupyter==1.0.0
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+jupyter
